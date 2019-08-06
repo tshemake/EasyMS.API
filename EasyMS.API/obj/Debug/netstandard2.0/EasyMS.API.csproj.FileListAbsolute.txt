@@ -1,0 +1,9 @@
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\bin\Debug\netstandard2.0\EasyMS.API.deps.json
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\bin\Debug\netstandard2.0\EasyMS.API.dll
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.csproj.CoreCompileInputs.cache
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.AssemblyInfoInputs.cache
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.AssemblyInfo.cs
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.csprojAssemblyReference.cache
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\bin\Debug\netstandard2.0\EasyMS.API.pdb
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.dll
+C:\Users\utilizador\OneDrive\EasyMS.API\EasyMS.API\obj\Debug\netstandard2.0\EasyMS.API.pdb
